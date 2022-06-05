@@ -1,5 +1,4 @@
 package test;
-import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
@@ -7,7 +6,6 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
-import org.openqa.selenium.interactions.Actions;
 
 public class MyTest {
 
@@ -29,6 +27,14 @@ public class MyTest {
 
 		String Title = driver.getTitle();
 		System.out.println(Title);
+
+		String PageSource = driver.getPageSource();
+		int pageSourceLength = PageSource.length(); 
+		System.out.println(pageSourceLength);
+		
+		String CurrentUrl = driver.getCurrentUrl(); 
+		System.out.println(CurrentUrl);
+
 
 		//Test 02:
 		driver.manage().window().maximize();
