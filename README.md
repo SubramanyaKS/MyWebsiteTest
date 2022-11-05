@@ -1,6 +1,7 @@
 #  Website Testing Using Selenium automation testing tool
 
-
+#### Software Testing
+Software testing is the process of evaluating and verifying that a software product or application does what it is supposed to do. The benefits of testing include preventing bugs, reducing development costs and improving performance.
 
 #### Automation Testing
 Automation testing uses the specialized tools to automate the execution of manually designed test cases without any human intervention. 
