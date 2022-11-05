@@ -19,4 +19,11 @@ Selenium is an open-source tool that automates web browsers. It provides a singl
 
 **Tested Website Link:** https://subramanyaks.github.io/
 
+### Contribute:
+1. Fork the Repository
+2. clone the repo using `git clone <repo link>` command
+3. Make changes.
+4. test the change.
+5. pull the change with message (commit message).
+
 if you like the project star the repo.
