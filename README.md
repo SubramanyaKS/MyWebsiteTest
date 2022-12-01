@@ -11,7 +11,7 @@ Selenium is an open-source tool that automates web browsers. It provides a singl
 
 **Note** : For basic tutorial visit https://www.javatpoint.com/selenium-tutorial.
 
-### Technology/Tools Used:
+## Technology/Tools Used:
 
 * ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 * ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
@@ -19,7 +19,17 @@ Selenium is an open-source tool that automates web browsers. It provides a singl
 
 **Tested Website Link:** https://subramanyaks.github.io/
 
-### Contribute:
+## Run Project.
+
+1. Fork the Repository
+2. Clone the repository `git clone <repo link` command.
+3. install editor VSCode or Eclipse, java, Selenium, and Chrome Driver.
+4. open the project in editor and run the project.
+
+**Note :** To set up  project in VSCode refer [this tutorials](https://youtu.be/dsro-c_6m1c)
+
+
+## Contribute:
 1. Fork the Repository
 2. clone the repo using `git clone <repo link>` command
 3. Make changes.
