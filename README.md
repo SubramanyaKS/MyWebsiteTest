@@ -36,4 +36,6 @@ Selenium is an open-source tool that automates web browsers. It provides a singl
 4. test the change.
 5. pull the change with message (commit message).
 
-if you like the project star the repo.
+If you like the project 🌟 the repository.
+
+Thank you with ❤ Subramanya KS
